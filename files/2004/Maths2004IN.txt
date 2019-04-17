@@ -1,0 +1,50 @@
+1.Find x and y respectively in the subtraction above c arried out in base 5
+2.Find p, if 4516 – p7 = 3056 
+3.
+4.A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested? 
+5. Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction did the third teacher receive? 
+6. 
+7. Simplify 1/√3 + 2 in the form a + b√3 
+8.
+9.The shaded region in the venn diagram above 
+10. In a class of 40 students, each student offers at least one of Physics and Chemistry. If the number of students that offer Physics is three times the number that offer both subjects and the number that offers Chemistry is twice the number that offer Physics, find the number of students that offer Physics only. 
+11.
+12.
+13. Factorize completely ac – 2bc – a2 + 4b2 
+14. y is inversely proportional to x and y = 4 when x = 1/ 2 . find x when y = 10 
+15. The length L of a simple pendulum varies directly as the square of its period T. if a pendulum with period 4 secs is 64cm long, find the length of a pendulum whose period is 9 sec. 
+16.The shaded area in the diagram below is represented by 
+17. What are the integral values of x which satisfy the inequality –1 < 3 – 2x ≤ 5? 
+18.
+19. Given that the first and fourth terms of a G.P are 6 and 162 respectively, find the sum of the first three terms of the progression. 
+20. Find the sum to infinity of the series ½, 1/6, 1/ 18,…………… 
+21. If the operation * on the set of integers is defined by p*q = “pq, find the value of 4*(8*32). 
+22.
+23.
+24. The sum of the interior angles of a  pentagon is 6x + 6y. find y in terms of x
+25. PQRSTV is a regular polygon of side 7cm inscribed in a circle. Find the circumference of the circle PQRSTV.
+26.P, R and S lie on a circle centre O as shown above while Q lies outside the circle. Find ÐPSO. 
+27.In the diagram below, PQ =4cm and TS = 6cm, if the area of parallelogram PQTU is 32cm2, find the area of the trapezium PQRU 
+28. An arc of a circle of length 22cm subtends an angle of 3x0 at the centre of the circle. Find the value of x if the diameter of the circle is 14cm. 
+29. Determine the locus of a point inside a square PQRS which is equidistant from PQ and QR 
+30. The locus of a point which is 5cm from the line LM is a 
+31. Find the value of α2 + β2 if a + b = and the distance between the points (1, α) ands (β, 1) is 3 units. 
+32. Find the midpoint of the line joining P(-3, 5) and Q (5, -3).
+33.Find the value of x in the figure below. 
+34. The shadow of a pole 5√3 m high is 5m. find the angle of elevation of the sun. A. 300 B. 450 C. 600 D. 750
+35. Find the derivative of (2 + 3x)(1 - x) with respect to x 
+36. 
+37. 
+38. What is the rate of change of the volume v of hemisphere with respect to its radius r when r = 2? 
+39.
+40.The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested? 
+41. I.   Rectangular bars of equal width                   II.  The height of each rectangular bar is proportional to the frequency of the 3 corresponding class interval.                       III. Rectangular bars have common sides with no gaps in between.               A histogram is described by 
+42.The graph below shows the cumulative frequency curve of the distribution of marks in a class test. What percentage of the students scored more than 20 marks? 
+43. The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the ages of the students, the mean of their ages becomes 18 years. Find the number of students in the group. 
+44. The weights of 10 pupils in a class are 15kg, 16kg, 17kg, 18kg, 16kg, 17kg, 17kg, 17kg, 18kg and 16kg. What is the range of this distribution? 
+45. Find the mean deviation of 1, 2, 3 and 4 
+46. In how many ways can 2 students be selected from a group of 5 students in a debating competition? 
+47. A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of assembly? 
+48. Some white balls were put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white ball from the basket is 3/7, how many white balls were introduced? 
+49. An unbiased die is rolled 100 times and the outcome is tabulated below: What is the probability of obtaining 5? 
+50. A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medal is selected at random from the container, what is the probability that it is not a gold medal? ~
